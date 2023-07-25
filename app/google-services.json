@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061679291227",
+    "project_id": "firestore-test-d2013",
+    "storage_bucket": "firestore-test-d2013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061679291227:android:9c8d8d0c99ceb85965587e",
+        "android_client_info": {
+          "package_name": "com.diu.mlab.foodie.firestoretest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061679291227-20agvr4qr4h0fmgmuk0aao0hcs95ofv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkeV8gDzXG5tRiHckamIX1KrfVgz5X2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061679291227-20agvr4qr4h0fmgmuk0aao0hcs95ofv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
